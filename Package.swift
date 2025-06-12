@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "SwiftUIUtils",
     platforms: [
-        .iOS(.v14)
+        .iOS(.v15)
     ],
     products: [
         .library(
@@ -15,8 +15,7 @@ let package = Package(
         .binaryTarget(
             name: "SwiftUIUtils",
             url: "https://github.com/liua668/SwiftUIUtils/releases/download/1.1.1/SwiftUIUtils.xcframework.zip",
-            checksum: "491ba72cbbf28ad34ba7febd8cec9e35bdaeb1f7fa04b5ddbdaebfede8e6b7ce"
+            checksum: "a2500279632e90811d79ae54e31886c32071504a077fad1d090f77cc319850c9"
         )
     ]
 )
-
