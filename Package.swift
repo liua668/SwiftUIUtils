@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SwiftUIUtils",
-            url: "https://github.com/liua668/SwiftUIUtils/releases/download/1.3.0/SwiftUIUtils.xcframework.zip",
-            checksum: "e28603e73e5743d2defdb759f88d8db7686ffaff758a8baacf12d7a78e878c4b"
+            url: "https://github.com/liua668/SwiftUIUtils/releases/download/1.5.0/SwiftUIUtils.xcframework.zip",
+            checksum: "f2a20f61e6064366ee8141e1ec3ff0f9aa0fe78d8cd093719f30966f5d3f382b"
         )
     ]
 )
